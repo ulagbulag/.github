@@ -1,0 +1,7 @@
+{
+    "name": "DevSkim",
+    "description": "Run DevSkim scanner",
+    "categories": [
+        "Rust"
+    ]
+}
